@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jlsryn.quiambao@gmail.com**
 
-- ⚡ Fun fact **I'm awkwardly funny**
+- ⚡ Fun fact **I have penchant for problem solving and a passion for learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
