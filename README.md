@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Julius Quiambao</h1>
 <h3 align="center">A passionate backend developer from the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="http://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
