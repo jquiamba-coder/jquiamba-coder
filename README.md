@@ -1,5 +1,5 @@
 <p align="center">
- <img alt="coding" width="400" src="https://cdn-icons-png.flaticon.com/512/5024/5024158.png">
+ <img alt="coding" width="500" src="https://cdn-icons-png.flaticon.com/512/5024/5024158.png">
 </p>
 
 <h2 align="center">Hi 👋, I'm Julius Quiambao</h1>
